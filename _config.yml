@@ -2,7 +2,7 @@ name: Alpha
 description: Alphs template for Jekyll
 baseurl: ''
 
-url: ''
+url: 'http://test-theme.github.io/Alpha-theme/'
 
 # PAGINATION
 gems: [jekyll-paginate]
