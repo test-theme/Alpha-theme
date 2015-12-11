@@ -1,6 +1,6 @@
 name: Alpha
 description: Alphs template for Jekyll
-baseurl: ''
+baseurl: '/Alpha-theme'
 
 url: 'http://test-theme.github.io/Alpha-theme/'
 
