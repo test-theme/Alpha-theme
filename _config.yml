@@ -1,0 +1,11 @@
+name: Alpha
+description: Alphs template for Jekyll
+baseurl: ''
+
+url: "http://localhost:4000"
+
+# PAGINATION
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
+
